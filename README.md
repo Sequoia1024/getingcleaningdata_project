@@ -4,7 +4,7 @@ Getting Cleanning Data Project
 
 This project is based on a dataset in UCI machine learning website:
 
-[I'm an inline-style link]http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 It's collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
@@ -19,7 +19,7 @@ For this project, we need to do:
 To do these:
 
 1. Download the zipped data from this website:
-[I'm an inline-style link]https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 2. Unzip the above file -- it gives you a folder called "UCI HAR Dataset", inside the folder there're some .txt files and two more folders-"train" and "test"
 3. Set R working directory as ".../UCI HAR Dataset"
 4. Run the R script ("run_analysis.R" in this repo)
